@@ -6,12 +6,15 @@ The goal of this project was to create a simple, offline, desktop application wi
 ## Description
 This task management app uses the style of Kanban to help users visualise workflows. Trello is a popular tool for this, as a result I tried to create something similar with an offline-first approach. 
 
+App functionality:
 - Create, read, update and delete (CRUD) boards, columns and cards.
 - Drag and drop cards between columns.
 - Create colourful labels cards.
-- Add due date/time to cards.
+- Add due date/time to cards, that changes colour depending on when the task is due.
 - Add descriptions and notes to cards.
-- Icons show on the card to indicate what data it holds.
+- Icons show on cards to indicate what data it holds. e.g. description, date etc.
+- Add a background image to each board with optional blur effect.
+- Saves data locally to JSON file.
 - 
 
 
