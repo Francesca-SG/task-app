@@ -15,7 +15,18 @@ App functionality:
 - Icons show on cards to indicate what data it holds. e.g. description, date etc.
 - Add a background image to each board with optional blur effect.
 - Saves data locally to JSON file.
-- 
+- Change the accent colour of the app.
+- See how many cards are currently in a column.
+
+## Difficulties
+I ran into numerous issues when attempting to package the app with Electron as well as an interesting bug. When windows shows a system dialog (like after deleting a file) Electron would lose focus and does not regain it. I added a fix that forcibly refocuses the app after any deletion. 
 
 
+## Tools used
+- JavaScript
+- HTML
+- CSS
+- JSON
+- Electron
+- Git Bash
 
