@@ -12,6 +12,7 @@ App functionality:
 - Create colourful labels cards.
 - Add due date/time to cards, that changes colour depending on when the task is due.
 - Add descriptions and notes to cards.
+- Mark cards as complete.
 - Icons show on cards to indicate what data it holds. e.g. description, date etc.
 - Add a background image to each board with optional blur effect.
 - Saves data locally to JSON file.
