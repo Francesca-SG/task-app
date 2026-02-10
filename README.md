@@ -33,3 +33,4 @@ For the sake of simplicity and speed, I kept the main code all in one script. Fo
 - Node.JS
 - Git Bash
 
+<img width="1185" height="892" alt="Screenshot 2026-02-09 164349" src="https://github.com/user-attachments/assets/47bcbce4-f2d6-41a2-9338-c651f57ff496" />
